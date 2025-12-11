@@ -25,7 +25,7 @@
 - Real-time AI detection systems  
 - YOLO model training & optimization  
 - OCR + text detection pipelines  
-- Multi-camera video processing (IP cameras, RTSP, RabbitMQ, Kafka)  
+- Multi-camera video processing (IP cameras, RTSP, RabbitMQ, MQTT)  
 
 ---
 
@@ -36,8 +36,8 @@ I enjoy experimenting, debugging, and pushing the limits of AI in real-world sce
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: *your email here*  
-- 💼 LinkedIn: *your profile link here*  
+- 📧 Email: *adityarajweb2004@gmail.com*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/aditya-raj-952291376/*  
 
 ---
 
