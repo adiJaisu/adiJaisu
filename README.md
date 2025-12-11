@@ -3,8 +3,9 @@
 
 <!-- 🌈 Multicolor Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=%F0%9F%8C%88+WELCOME+TO+ADIXZONE+%F0%9F%8C%88;AI+%26+COMPUTER+VISION+DEVELOPER; BUILDING+AI+THAT+WORKS+IN+THE+REAL+WORLD ;BREAKING+%E2%9A%A1+FIXING+%E2%9C%85+IMPROVING+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=700&lines=%F0%9F%8C%88+WELCOME+TO+ADIXZONE+%F0%9F%8C%88;CREATING+COOL+AI+SYSTEMS;BREAKING+%E2%9A%A1+FIXING+%E2%9C%85+IMPROVING+%F0%9F%9A%80;" />
 </p>
+
 
 <p align="center">
   🔹 I build cool AI systems, break things, fix them, and learn along the way 😄 <br/>
