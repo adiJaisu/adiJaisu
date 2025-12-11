@@ -1,23 +1,35 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">AI & Computer Vision Developer</h3>
 
-🔹 I build cool AI systems, break things, fix them, and learn along the way 😄  
-🔹 Working with **YOLO models**, **CV pipelines**, **real-time video analytics**, and anything challenging  
-🔹 Passionate about building production-ready AI that actually works in the real world  
-🔹 One bug → one commit → one win  
+<p align="center">
+  🔹 I build cool AI systems, break things, fix them, and learn along the way 😄 <br/>
+  🔹 Working with <b>YOLO models</b>, <b>CV pipelines</b>, <b>real-time video analytics</b> & multi-camera setups <br/>
+  🔹 Passionate about building production-ready AI that actually works in the real world <br/>
+  🔹 One bug → one commit → one win 🚀
+</p>
+
+---
+
+## 🎖️ Badges
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adiJaisu&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/adiJaisu?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/adiJaisu?label=Stars&style=for-the-badge" />
+</p>
 
 ---
 
 ## 🚀 Tech Stack
-**Core Skills:**  
-- 🧠 Deep Learning, Neural Networks  
-- 📸 Computer Vision (YOLO, Pose Estimation, OCR, Tracking)  
-- 🎥 Real-time video analytics & multi-camera systems  
 
-**Tools & Frameworks:**  
-- PyTorch | OpenCV | TensorRT | ONNX  
-- FastAPI | Flask  
-- Docker | Linux | Git  
+### 🔧 Languages, Libraries & Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,fastapi,flask" />
+</p>
+
+### 🛠 Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,idea" />
+</p>
 
 ---
 
@@ -29,17 +41,43 @@
 
 ---
 
-## 📈 My Approach
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adiJaisu&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiJaisu&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adiJaisu&theme=tokyonight" />
+</p>
+
+---
+
+## 🌓 Dark / Light Mode Auto Theme  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adiJaisu&show_icons=true&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adiJaisu&show_icons=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adiJaisu&show_icons=true">
+  </picture>
+</p>
+
+---
+
+## 📈 My Approach  
 > **Build fast, break things, fix them, improve — repeat.**  
 I enjoy experimenting, debugging, and pushing the limits of AI in real-world scenarios.
 
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: *adityarajweb2004@gmail.com*  
-- 💼 LinkedIn: *https://www.linkedin.com/in/aditya-raj-952291376/*  
+- 📧 Email: **adityarajweb2004@gmail.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/aditya-raj-952291376/**  
 
 ---
 
-⭐ **Thanks for checking out my profile!**  
-Feel free to explore, fork, or collaborate 🚀
+<h3 align="center">⭐ Thanks for checking out my profile! 🚀  
+Feel free to explore, fork, or collaborate!</h3>
