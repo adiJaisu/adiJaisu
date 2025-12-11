@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">AI & Computer Vision Developer</h3>
 
-<!-- 🔥 Animated Banner -->
+<!-- 🌈 Multicolor Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+WELCOME+TO+ADIXZONE+%E2%9C%A8;AI+%26+Computer+Vision+Developer;Breaking+%E2%9A%A1+Fixing+%E2%9C%85+Improving+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=%F0%9F%8C%88+WELCOME+TO+ADIXZONE+%F0%9F%8C%88;AI+%26+COMPUTER+VISION+DEVELOPER;BUILDING+AI+THAT+WORKS+IN+THE+REAL+WORLD;BREAKING+%E2%9A%A1+FIXING+%E2%9C%85+IMPROVING+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -62,8 +62,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adiJaisu&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiJaisu&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=adiJaisu&theme=tokyonight&show_icons=true" />
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=adiJaisu&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -78,9 +78,9 @@
 ## 🌓 Dark / Light Mode Auto Theme  
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adiJaisu&show_icons=true&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adiJaisu&show_icons=true&theme=default">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adiJaisu&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=adiJaisu&show_icons=true&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=adiJaisu&show_icons=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=adiJaisu&show_icons=true">
   </picture>
 </p>
 
