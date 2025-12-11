@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">AI & Computer Vision Developer</h3>
 
-<h2 align="center">✨ Welcome to AdiXzone ✨</h2>
+<!-- 🔥 Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+WELCOME+TO+ADIXZONE+%E2%9C%A8;AI+%26+Computer+Vision+Developer;Breaking+%E2%9A%A1+Fixing+%E2%9C%85+Improving+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
   🔹 I build cool AI systems, break things, fix them, and learn along the way 😄 <br/>
@@ -25,12 +28,26 @@
 
 ### 🔧 Languages, Libraries & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,fastapi,flask" />
+
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+  <a href="https://opencv.org" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" /></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
+  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" /></a>
+  <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://skillicons.dev/icons?i=flask" /></a>
+
 </p>
 
 ### 🛠 Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,idea" />
+
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://www.jetbrains.com/pycharm" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
+
 </p>
 
 ---
@@ -81,5 +98,5 @@ I enjoy experimenting, debugging, and pushing the limits of AI in real-world sce
 
 ---
 
-<h3 align="center">⭐ Thanks for checking out my profile!  
+<h3 align="center">⭐ Thanks for visiting!  
 Feel free to explore, fork, or collaborate! 🚀</h3>
