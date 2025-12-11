@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">AI & Computer Vision Developer</h3>
 
+<h2 align="center">✨ Welcome to AdiXzone ✨</h2>
+
 <p align="center">
   🔹 I build cool AI systems, break things, fix them, and learn along the way 😄 <br/>
   🔹 Working with <b>YOLO models</b>, <b>CV pipelines</b>, <b>real-time video analytics</b> & multi-camera setups <br/>
@@ -79,5 +81,5 @@ I enjoy experimenting, debugging, and pushing the limits of AI in real-world sce
 
 ---
 
-<h3 align="center">⭐ Thanks for checking out my profile! 🚀  
-Feel free to explore, fork, or collaborate!</h3>
+<h3 align="center">⭐ Thanks for checking out my profile!  
+Feel free to explore, fork, or collaborate! 🚀</h3>
